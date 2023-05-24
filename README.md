@@ -34,10 +34,6 @@ There are many excellent applications in the OMN Ecosystem, including DeFi proto
 
 ## Omega Smart Chain  Ecological Co-construction Plan
 
-### Omega Chain Eco-capital
-
-Omega Chain Ecological Co-construction Plan Eco-capital OMN unites with alliance partners to establish Omega Chain Eco-capital. Inject capital for potential projects, provide liquidity and other support, realize capital gains in the alliance ecology, reinvest in the Omega Chain ecology, and realize a closed-loop business.
-
 ### Omega Chain Eco-Alliance
 
 Omega Chain Eco-Alliance include but are not limited to blockchain industry partners such as exchanges, wallets, capital, media, and project communities, aiming to provide Omega Chain developers with all-round support throughout the life cycle of the project and help the project succeed.
@@ -50,7 +46,7 @@ After the Omega Smart Chain goes online, any developer can easily build decentra
 
 ### Design Logic
 
-1. Technically speaking, Omega Chain does not belong to a two-layer solution, but is a side chain of Ethereum. Most of the technical functions and business functions of Omega Chain are developed by the Omega Chain team.
+1. Technically speaking, Omega Chain does not belong to a layer2 solution, but is a side chain of Ethereum. Most of the technical functions and business functions of Omega Chain are developed by the Omega Chain team.
 2. Compatible with current mainstream public chains including Ethereum, BSC, Heco Chain, etc. The above public chains have relatively mature applications and communities. Therefore, most of the mature Dapp, ecosystem components and tools in the industry can be adapted to Omega Chain. Omega Chain nodes will perform hardware specifications and Omega Chain functions.
 ### Improvement Plan
 
@@ -75,11 +71,11 @@ Block-Out Cost: 3 seconds
 
 High throughput is achieved by improving the TPS in the Omega Chain. The Omega Chain block confirmation time is 3 seconds, and the practical degree of daily use has exceeded bitcoin and Ethereum.
 
-1. Scalability
+2. Scalability
 
 Based on good scalability and efficient smart contracts. Applications can have more deployment methods in Omega Chain, and Omega Chain can support a large number of users.
 
-1. High Reliability
+3. High Reliability
 
 Omega Chain has a more reliable network structure, user assets, intrinsic value, and a higher degree of decentralized consensus has brought about an improved reward distribution mechanism.
 
@@ -137,8 +133,8 @@ Omega Smart Chain has set up a scientific and efficient incentive mechanism to p
 
 System parameters can be regulated through the governance of the community, including:
 
-1. The parameters of the Omega Chain system contract are all flexible, such as cross-chain transfer fees, repeater reward amount, etc., which is conducive to the good operation of the ecology
-2. The parameters of the Stake/Slash/Oracle module on the Omega Chain All these parameters are determined together by the Omega Chain verification assembly according to its Staking through the proposed voting process. Such a process will be carried out on the Omega Chain chain.
+1. The parameters of the Omega Chain system contract are all flexible, such as cross-chain transfer fees etc., which is conducive to the good operation of the ecology
+2. The parameters of the Stake/Slash/Oracle module on the Omega Chain. All these parameters are determined together by the Omega Chain verification assembly according to its Staking through the proposed voting process. Such a process will be carried out on the Omega Chain chain.
 #### Governance Design Principles
 
 1. A unified interface. Contracts interested in these parameters only need to implement the same interface.
@@ -152,11 +148,11 @@ Voting process:
 
 It is set in the ballot Omega Chain that you can have the right to vote by holding OMN
 
-1. voting process
+2. voting process
 
 Omega Chain sets that voting on candidates is a special type of transaction, and nodes can vote on candidates by generating a voting transaction
 
-1. counting votes
+3. counting votes
 
 During each maintenance period, count the votes of candidates once, and use the candidate with the most votes as the bookkeeper for the next block-out cycle.
 
