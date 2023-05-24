@@ -56,7 +56,7 @@ After the Omega Smart Chain goes online, any developer can easily build decentra
 
 According to the current problems faced by the industry, Omega Chain will make improvements at the following levels:
 
-1. Block confirmation is 3 seconds faster than mainstream block chains including Etherum and BTC;
+1. Block confirmation is 3 seconds faster than mainstream block chains including Ethereum and BTC;
 2. Omega Chain's gas fee serves as a block reward, and the gas fee is OMN(OMN Exchange Platform Token)
 3. Bring in Staking mechanism, set up an Omega Chain alliances to support project parties and carry out node elections.
 ## The Characteristics of Omega Smart Chain
@@ -130,10 +130,6 @@ HVM's bandwidth consumption mode reduces the development cost of the contract. L
 ### Account Model
 
 Omega Chain adopts the account model. The unique identification of the account is the address, and the private key signature needs to be verified for account operations. The project side can publish and create smart contracts, or call smart contracts published by others, or vote on nodes, etc. All activities of Omega Chain are carried out around accounts.
-
-### Resource Model
-
-Omega Smart Chain has designed a set of perfect resource models and supports the dynamic adjustment of resource model parameters. This is a very excellent feedback adjustment mechanism. For example, when the transactions on the chain are busy, the transaction fees and usage costs will become higher. When idle, the cost of these resources will be reduced accordingly. In addition, a certain amount of free resource quotas are set for users. At the same time, users are supported to obtain the corresponding amount of voting rights by freezing OMN, and users can get corresponding rewards by voting for nodes.
 
 ### Governance and Voting Mechanism
 
