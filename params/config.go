@@ -28,7 +28,7 @@ import (
 // Genesis hashes to enforce below configs on.
 var (
 	MainnetGenesisHash = common.HexToHash("0x7eb442ecda3db6ae27376de2b34dfae802d3ab13ebba7544eba103ca619e32ed")
-	TestnetGenesisHash = common.HexToHash("0xc1a25025b5fcd7526368faa9ae5916f94846d6de283faa6448a9167f601116cc")
+	TestnetGenesisHash = common.HexToHash("0xd7ea689bffeb1ef579ef7ebe71fc2d172ebdf91db9e843d98e76ac6daaff4052")
 )
 
 // TrustedCheckpoints associates each known checkpoint with the genesis hash of
@@ -42,7 +42,7 @@ var CheckpointOracles = map[common.Hash]*CheckpointOracleConfig{}
 var (
 	// MainnetChainConfig is the chain parameters to run a node on the main network.
 	MainnetChainConfig = &ChainConfig{
-		ChainID:             big.NewInt(70),
+		ChainID:             big.NewInt(408),
 		HomesteadBlock:      big.NewInt(0),
 		DAOForkBlock:        nil,
 		DAOForkSupport:      true,
@@ -63,7 +63,7 @@ var (
 
 	// TestnetChainConfig contains the chain parameters to run a node on the YOLOv1 test network.
 	TestnetChainConfig = &ChainConfig{
-		ChainID:             big.NewInt(170),
+		ChainID:             big.NewInt(816),
 		HomesteadBlock:      big.NewInt(0),
 		DAOForkBlock:        nil,
 		DAOForkSupport:      true,
